@@ -126,8 +126,9 @@ body {
 .tabs-container {
   border-bottom: 1px solid lightgrey;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  spear
   flex-direction: row;
   width: 100%;
   height: 47px;
